@@ -27,6 +27,9 @@ username
 
 password
 
+### Criação das tabelas
+Para criar as tabelas em seu banco de dados, utilize o script 'criartabela.py'.
+
 ## Endpoints
 
 ### /login (POST)
