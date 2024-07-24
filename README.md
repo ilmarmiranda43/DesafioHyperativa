@@ -29,11 +29,13 @@ password
 
 ## Endpoints
 
-/login (POST)
+### /login (POST)
 Gera um token JWT para autenticação.
 
 Exemplo de utilização no Postman
 
 ![image](https://github.com/user-attachments/assets/71c12f05-29c6-4c95-88dd-a8a3d62c9c93)
+
+
 
 
