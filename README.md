@@ -20,6 +20,20 @@ pip install Flask pyodbc PyJWT
 A API se conecta a um banco de dados SQL Server. As credenciais de conexão são configuradas diretamente no código. Certifique-se de alterar os seguintes parâmetros na função get_db_connection para refletir as suas configurações:
 
 server
+
 database
+
 username
+
 password
+
+## Endpoints
+
+/login (POST)
+Gera um token JWT para autenticação.
+
+Exemplo de utilização no Postman
+
+![image](https://github.com/user-attachments/assets/71c12f05-29c6-4c95-88dd-a8a3d62c9c93)
+
+
